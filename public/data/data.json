@@ -6,6 +6,16 @@
       "email": "jason@mail.com",
       "password": "$2a$10$/X7engpn6HV5oetOTAfslO.XF02r3pd4Jqc3TI9KBeRdm.cSFamN6",
       "id": 1
+    },
+    {
+      "email": "jason1@mail.com",
+      "password": "$2a$10$kVgBgp1qAhKJWEjsJp9LyecI9N9ZW51NnvKUzSBw6W4MXxoDJnKYC",
+      "id": 2
+    },
+    {
+      "email": "jason2@mail.com",
+      "password": "$2a$10$emmArJNb5tVTCiU0XHzk2enIiYYpOECg.9Akpv5V2kS3dJg2213xe",
+      "id": 3
     }
   ],
   "lists": []
